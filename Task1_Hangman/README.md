@@ -17,10 +17,20 @@ The Hangman Game is a console-based Python application that randomly selects a w
 - Displays appropriate win and game over messages
 - Console-based implementation
 
-## Technologies Used
+## Language
 
-- Python 3
+- Python
+
+## Python Concepts Used
+
 - Random Module
+- Lists
+- Strings
+- While Loop
+- For Loop
+- If-Else Statements
+- User Input
+- Conditional Logic
 
 ## Concepts Demonstrated
 
