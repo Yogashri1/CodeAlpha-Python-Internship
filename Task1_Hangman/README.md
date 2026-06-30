@@ -59,6 +59,12 @@ Task1_Hangman/
 ```bash
 python main.py
 ```
+## Future Enhancements
+- Add multiple difficulty levels (Easy, Medium, Hard) by varying word complexity and attempts  
+- Expand the word database or integrate an external dictionary API for dynamic word selection  
+- Implement a graphical user interface (GUI) using Tkinter or PyQt for better user experience  
+- Add a scoring system based on number of attempts and time taken  
+- Include a hint system to assist users after a certain number of wrong attempts
 
 ## Author
 
