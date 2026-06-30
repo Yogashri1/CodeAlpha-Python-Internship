@@ -63,7 +63,7 @@ python main.py
 
 ## Sample Output
 
-
+```bash
 ========================================
      STOCK PORTFOLIO TRACKER
 ========================================
@@ -77,6 +77,7 @@ Quantity: 3
 Total Investment: $750
 
 Portfolio saved to portfolio.txt
+```
 
 ## Author
 
