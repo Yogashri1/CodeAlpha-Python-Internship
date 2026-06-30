@@ -5,8 +5,6 @@ This project is developed as part of the **CodeAlpha Python Programming Internsh
 
 The Stock Portfolio Tracker is a console-based Python application that calculates the total investment value based on a predefined stock price list. The user selects a stock and enters the quantity, and the program computes the total investment and saves the result to a file.
 
----
-
 ## Features
 - Predefined stock price dictionary  
 - User input for stock selection  
@@ -16,12 +14,8 @@ The Stock Portfolio Tracker is a console-based Python application that calculate
 - Saves portfolio details to a text file (`portfolio.txt`)  
 - Simple and interactive console-based interface  
 
----
-
 ## Programming Language
 - Python 3
-
----
 
 ## Concepts Used
 - Dictionaries  
@@ -31,7 +25,6 @@ The Stock Portfolio Tracker is a console-based Python application that calculate
 - Arithmetic Operations  
 - String Formatting  
 
----
 
 ## Project Structure
 
@@ -41,7 +34,6 @@ Task2_StockPortfolio/
 │── README.md
 │── portfolio.txt (generated after execution)
 ```
----
 
 ## How to Run
 1. Ensure Python 3 is installed  
