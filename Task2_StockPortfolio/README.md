@@ -35,11 +35,12 @@ The Stock Portfolio Tracker is a console-based Python application that calculate
 
 ## Project Structure
 
+```bash
 Task2_StockPortfolio/
 │── main.py
 │── README.md
 │── portfolio.txt (generated after execution)
-
+```
 ---
 
 ## How to Run
@@ -50,6 +51,7 @@ Task2_StockPortfolio/
 
 ```bash
 python main.py
+```
 
 ## How It Works
 
@@ -60,6 +62,7 @@ python main.py
 - Output is displayed and saved into portfolio.txt
 
 ## Sample Output
+
 
 ========================================
      STOCK PORTFOLIO TRACKER
@@ -78,3 +81,10 @@ Portfolio saved to portfolio.txt
 ## Author
 
 **Yogashri R**
+
+## Future Enhancements
+
+- Support multiple stocks in a single portfolio
+- Fetch real-time stock prices using financial APIs
+- Export portfolio report as CSV/Excel file
+- Develop GUI version using Tkinter or PyQt
