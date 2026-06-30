@@ -103,7 +103,7 @@ Congratulations!
 You guessed the word: science
 
 Thank you for playing!
-
+```
 
 ## Author
 
