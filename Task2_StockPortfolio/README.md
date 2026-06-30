@@ -34,3 +34,47 @@ The Stock Portfolio Tracker is a console-based Python application that calculate
 ---
 
 ## Project Structure
+
+Task2_StockPortfolio/
+│── main.py
+│── README.md
+│── portfolio.txt (generated after execution)
+
+---
+
+## How to Run
+1. Ensure Python 3 is installed  
+2. Open terminal or command prompt  
+3. Navigate to the project folder  
+4. Run the program:
+
+```bash
+python main.py
+
+## How It Works
+
+- A predefined dictionary stores stock names and prices
+- User enters stock name (e.g., AAPL, TSLA)
+- User enters quantity of shares
+- Program calculates total investment value
+- Output is displayed and saved into portfolio.txt
+
+## Sample Output
+
+========================================
+     STOCK PORTFOLIO TRACKER
+========================================
+
+Enter stock name: TSLA
+Enter quantity: 3
+
+Stock: TSLA
+Price per Share: $250
+Quantity: 3
+Total Investment: $750
+
+Portfolio saved to portfolio.txt
+
+## Author
+
+**Yogashri R**
